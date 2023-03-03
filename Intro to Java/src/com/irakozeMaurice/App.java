@@ -2,6 +2,10 @@ package com.irakozeMaurice;
 
 import javax.swing.JOptionPane;
 
+/*
+ * Main class to start the application
+ * 
+ * */
 public class App {
 
 	public static void main(String[] args) {
